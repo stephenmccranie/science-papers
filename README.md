@@ -6,7 +6,7 @@ Science papers and working drafts by Stephen McCranie. This repository will be u
 
 | Paper | Status |
 | --- | --- |
-| [Social Niche Theory: A Framework for Niche Fit and Mismatch](papers/Social_Niche_Theory.md) | Work in progress; pre-publication hypothesis paper |
+| [Social Niche Theory: The Fundamental Dimensions of the Human Mind](papers/Social_Niche_Theory.md) | Work in progress; pre-publication theory paper |
 
 ## Revisions
 
