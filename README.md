@@ -1,6 +1,6 @@
 # Science Papers
 
-Science papers and working drafts by Stephen McCranie. This repository will be updated as the work develops.
+Science papers and working drafts. This repository will be updated as the work develops.
 
 ## Papers
 
